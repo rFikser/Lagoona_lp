@@ -1,6 +1,4 @@
 {
-    "editor.formatOnSave": true,
-    "cSpell.ignoreWords": [
-        "lagoona"
-    ]
+  "editor.formatOnSave": false,
+  "cSpell.ignoreWords": ["lagoona"]
 }
